@@ -23,6 +23,7 @@
     "webpack-dev-middleware": "^3.4.0"
   },
   "dependencies": {
+    "docusign-esign": "^4.2.1",
     "express": "^4.16.4"
   }
 }
