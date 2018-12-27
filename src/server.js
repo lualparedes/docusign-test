@@ -13,7 +13,7 @@ if (process.env.NODE_ENV === 'development') {
 }
 
 app.get('/', (req, res) => {
-  res.send('Holamundo')
+  res.send('Holis')
 })
 app.listen(4000, () => {
   console.log(`Listening in ${process.env.NODE_ENV} environment`);
